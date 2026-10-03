@@ -1,0 +1,168 @@
+AI VIDEO BOOTCAMP — PHASE 2: AI CREATOR FOUNDATIONS
+Lesson notes, video links and files
+============================================================
+
+
+######## ⭐ Start Here ########
+
+01. 🧱 AI Creator Foundations
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=454efee1d0a84d13b545a9488a4d6e42
+
+Welcome to Phase 2. This is where we build the foundation for everything you’ll create inside the Bootcamp!
+This phase is simply here to help you understand the basics properly, without feeling overwhelmed.
+You’ll learn how prompting works, what AI models actually are, how credits work, how to use LLM chats like ChatGPT, and which tools you’ll need as you move through the course.
+Think of this phase as your setup stage.
+Once you understand these foundations, the image, video, editing, influencer, and ad modules will make a lot more sense.
+
+02. 📚 Course Content
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=c57593d8c7d5405d83846d6974095e15
+Video: https://www.loom.com/share/c56dc6c949a9494e867a5a589f81b368
+Resources:
+  - Phase2_02_Course-Content_transcript10.pdf (Transcript)
+
+03. 🛠️ The Tools
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=3768b04c9865410ea3980d8a7159d9d9
+Video: https://www.loom.com/share/2954ad421f4c48f88c75b8f6c6c4908f
+Resources:
+  - Phase2_03_The-Tools_transcript9.pdf (Transcript)
+
+Hey! Welcome to the course, if you are new here one of the main tools used will be Promptwise.
+You can get a free trial with 50 free credits so you can create your first prompts & images! - www.promptwise.com  (http://PromptWise.com)
+For editing everything together, you can use CapCut (mostly free) - https://www.capcut.com/
+(Optional) For additional image editing, you can use Canva www.Canva.com 
+(Optional) You can use Midjourney for images if needed - 100% optional http://www.midjourney.com/
+Promptwise is cheaper against competitors on every plan - 
+[Image 1: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/fc86b6a64c7c437a944fb58c521163f3e9a24f474ce245fd854658c94917d4cf.jpg]
+
+
+######## 🎯 The Foundations ########
+
+04. 🪄 AI Models
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=abbaa4b94c6d47629ed83587b8daac31
+Video: https://www.loom.com/share/60dacd7d03f24b448cc469138c6edfc4
+Resources:
+  - Phase2_04_AI-Models_transcript8.pdf (Transcript)
+  - Phase2_04_AI-Models_ai_models_guide.pdf (Lesson Guide)
+
+Important note: Don't mess up your Aspect Ratios!Aspect ratio is basically the shape of your content. Choosing the right one matters because the wrong shape can make your image or video feel awkward, cropped, or less native to the platform.
+
+### 9:16 — Vertical Full Screen
+[Image 1: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/c583b46119014c1790e6db12802cb298aa4f8fef519b4fd996438b1540e291b6-md.png]
+Use this for TikTok, Instagram Reels, YouTube Shorts, Facebook Reels, Snapchat, and mobile-first videos.
+This is the main format for short-form content. It fills the phone screen, feels native, and gives you the most attention because there is no wasted space. Use 9:16 for AI videos, talking-head content, cinematic shorts, UGC ads, POV videos, character videos, and anything designed for scrolling feeds.
+Best for: short-form video, mobile ads, Reels, TikToks, Shorts, POV content, cinematic vertical content.
+
+### 4:5 — Portrait Feed Post
+[Image 2: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/4bec685ca0714fb8aa3d18f376d697aedad8f1fbd737435f808452901ac4b029-md.png]
+Use this for Instagram feed posts, Facebook feed ads, LinkedIn image posts, and high-quality social visuals.
+4:5 is great because it takes up more screen space than a square post without being as tall as a Reel. It feels premium, polished, and works really well for influencer photos, product images, carousels, AI-generated lifestyle shots, and static ad creatives.
+Best for: Instagram feed images, static ads, influencer photos, product visuals, carousel slides.
+
+### 1:1 — Square
+[Image 3: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/5feb648ff69f438cbcd4c49ea57a89f75895ae5ef46b43dc8b8c4630b506fceb.png]
+
+Use this when you need something simple, flexible, and platform-safe (mostly for Static Ads).
+Square works almost everywhere, but it is not always the most attention-grabbing format. It is useful for profile-style graphics, thumbnails, simple announcements, older ad placements, or when you need one creative that can be used across multiple platforms without much cropping.
+Best for: simple graphics, profile posts, thumbnails, announcements, safe multi-platform posts.
+
+### 16:9 — Landscape / Widescreen
+[Image 4: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/670e764ba8c743dcafce5747fab9c8724e8ce665e0cc47e5ac1257263219bb1b-md.png]
+Use this for YouTube videos, websites, presentations, cinematic scenes, and horizontal ads.
+16:9 is the classic cinematic and YouTube format. It gives you more space for environments, landscapes, group shots, product scenes, tutorials, and storytelling. It is not ideal for TikTok or Reels unless you are intentionally going for a widescreen look.
+Best for: YouTube, websites, trailers, cinematic videos, courses, presentations, horizontal ads.
+
+## Simple Rule
+Use 9:16 for short-form video.
+Use 4:5 for Instagram/feed images and static ads.
+Use 1:1 when you need something safe and simple.
+Use 16:9 for YouTube, websites, courses, and cinematic horizontal content.
+
+There is more aspect ratios, but these are the main ones you'll need.
+
+05. 💬 AI Chats
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=cc975d647e7e43b3a1f6d9405229a562
+Video: https://www.loom.com/share/1c2e27b562944a9cb8630939da5423d1
+Resources:
+  - Phase2_05_AI-Chats_Helpful_AI_Chat_Prompts_(1).pdf (Helpful AI Chat Starter Prompts)
+  - Phase2_05_AI-Chats_transcript11.pdf (Transcript)
+  - Phase2_05_AI-Chats_AVB_AI_Chat_Cheat_Sheet_clean2.pdf (AI Chat Cheatsheet)
+
+Wise is more-so powered towards creation (specifically AI video & Image creation, scripts etc), so if you want a more overall helper, ChatGPT or Claude may be a better option for you!
+You can access Wise on www.promptwise.com
+Claude and ChatGPT are both great when needed, BUT they require an extra subscription.
+
+06. 🔁 AI Creator Workflow
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=f37a341fc279490ab2c3c2949b726fee
+Video: https://www.loom.com/share/0c43cb148bdf45b88e32c212076f6c88
+Resources:
+  - Phase2_06_AI-Creator-Workflow_transcript12.pdf (Transcript)
+  - Phase2_06_AI-Creator-Workflow_AVB_AI_Creator_Workflow_clean2.pdf (AI Creator Workflow PDF)
+
+Idea > Chat > Image > Refine > Video > Edit & Post.
+The bulletproof AI workflow, whether you are making AI influencers, AI ads, Cinematic films or any type of AI video content.
+
+07. 🧠 Prompting
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=2321c52e98c942f8af7faf3ff4775458
+Video: https://www.loom.com/share/1ca17fb8e42848879f3ecb53abf98ddc
+Resources:
+  - Phase2_07_Prompting_The_AVB_Prompt_Framework.pdf (The AVB Prompt Framework)
+  - Phase2_07_Prompting_transcript13.pdf (Transcript)
+
+What is a prompt?
+A prompt is simply the instruction you give to AI.
+It’s what you type in to tell the AI what you want it to create, answer, change, or help with.
+For example:
+“Create an image of a knight standing in a dark forest.”
+That sentence is the prompt.
+The better and clearer your prompt is, the better the AI can understand what you want.
+
+08. 🧠 Prompting 2
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=bad989eea7784fe39ff343ecab47682d
+Video: https://www.loom.com/share/deb7351f2f25424ba43280c67bb7bbff
+Resources:
+  - Phase2_08_Prompting-2_transcript14.pdf (Transcript)
+
+Excited to see what you make!
+
+
+######## ✅ Homework & Resources ########
+
+09. 🎯 Phase 2 Summary & Homework
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=06b65fe646ee49478cbee04dc7f6443d
+
+You've learnt the foundations of Prompting & AI creation. Now it's time to take it further!
+YOUR PROGRESS: 
+✅ Phase 1 — Initiate
+✅ Phase 2 — AI Foundations
+⬜ Phase 3 — AI Images
+⬜ Phase 4 — AI Videos
+⬜ Phase 5 — AI Advertising & UGC
+⬜ Phase 6 — Advanced Flows
+⬜ Phase 7 — Social Media
+⬜ Phase 8 — AI filmmaking
+⬜ Phase 9 — Cloning
+
+# Your Next Missions:
+⭐ Write out your first prompt!
+Even with all of the advancements in technology recently, knowing what a good prompt looks like is still a great skill to have. 
+Create an awesome prompt and post it in the community with the title "Phase 2 Homework".
+Prompts are the backbone of all AI creation 🔥
+
+## Then Move on to Phase 3: AI Images
+This is where you’ll start creating awesome images!
+
+10. 📁 Resources
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/3349da45?md=581c7d16bf5c4ed7b15ebaedb9a9d416
+Resources:
+  - Phase2_10_Resources_Helpful_AI_Chat_Prompts_(1)_(1).pdf (Helpful AI Starter Chat Prompts)
+  - Phase2_10_Resources_AVB_AI_Chat_Cheat_Sheet_clean2.pdf (AI Chat Cheatsheet)

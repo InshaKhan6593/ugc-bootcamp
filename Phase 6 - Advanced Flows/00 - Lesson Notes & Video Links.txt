@@ -1,0 +1,105 @@
+AI VIDEO BOOTCAMP — PHASE 6: ADVANCED FLOWS
+Lesson notes, video links and files
+============================================================
+
+
+######## ⭐ Start Here ########
+
+01. 👋 Flows Intro
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=1ce1ce7825ce44bd83ca6d8427aa1cd9
+Video: https://www.loom.com/share/1c7c8f397d83479e84444ddfd9760fb5
+Resources:
+  - Phase6_01_Flows-Intro_transcript2.pdf (Transcript)
+
+Welcome to Phase 6. This is where you’ll learn how to use Flows, our node-based system for building AI creation workflows.
+Don’t worry, this might look a little different at first, but you do not need to understand everything straight away. This phase is here to show you how to connect simple steps together, one piece at a time.
+You’ll learn how nodes work & why we believe this is the best/fastest way to make content & organise your creative thoughts in 2026.
+Think of Flows as your creative workspace.
+Instead of jumping between tools and losing track of what you’re doing, you are able to build a clear process all in one place.
+
+02. 📚 Flows Overview
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=2dd88abd3f7343b1994470f818da4aba
+Video: https://www.loom.com/share/a9fef610bb5f4b3a9c9726aa1f1dd674
+Resources:
+  - Phase6_02_Flows-Overview_transcript6.pdf (Transcript)
+
+
+######## ⚡ Advanced Flows ########
+
+03. 🎨 Image Generators
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=5199d7e775474fe48b8bf694a97186cb
+Video: https://www.loom.com/share/8eff41807a7e4a1c915ae72c620b3f5a
+Resources:
+  - Phase6_03_Image-Generators_transcript4.pdf (Transcript)
+
+04. 🎥 Video & Audio Generators
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=a2c09961588b4a5396d8d188e8ac7d4f
+Video: https://www.loom.com/share/4aa4b81e99c54f5a94cfc8715c0f73fc
+Resources:
+  - Phase6_04_Video-Audio-Generators_avb_video_audio_nodes_lesson_transcript.pdf (Transcript)
+
+05. ⚙️ Flows Toolkit
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=427397cdc86f40ada0f85fdd873c6c01
+Video: https://www.loom.com/share/037acf138e8b429d873b37ece9042406
+Resources:
+  - Phase6_05_Flows-Toolkit_transcript5.pdf (Transcript)
+
+06. 🪄 MagicFlow
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=d145e03b6bdd449c8edd6edf2cfa7d1d
+Video: https://www.loom.com/share/b5152d44cdc64b03815cf153efdb90e3
+Resources:
+  - Phase6_06_MagicFlow_transcript3_(1).pdf (Transcript)
+
+As with any AI generation, when using MagicFlow, if you include references, the quality of the output will directly correlate to the quality of the references. Make sure you give awesome references!
+
+07. ⏱️ Creating an AD in less than 10 Minutes
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=0dfbdc8bdb944b3186aee671b1f037a3
+Video: https://www.loom.com/share/23e9d8e396654fd7a9ac6acc620aaa83
+Resources:
+  - Phase6_07_Creating-an-AD-in-less-than-10-Minutes_transcript7.pdf (Transcript)
+
+
+######## 🔥 Promptwise MCP ########
+
+08. ⚡Connecting Claude & ChatGPT to Promptwise (MCP)
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=fa11b880abe745238e18cde7bd693897
+
+www.promptwise.com
+https://app.promptwise.com/mcp
+More MCP stuff coming soon!
+
+
+######## ✅ Homework & Resources ########
+
+09. 🎯 Phase 6 Homework & Summary
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=d9313f2c7ecf42dca079f9e9de25c8e5
+
+Phase 6 Summary
+You are on a role! Learning node-based workflows is the advanced system you needed to level up. Let's go!!
+YOUR PROGRESS:
+✅ Phase 1 — Initiate
+✅ Phase 2 — AI Foundations
+✅ Phase 3 — AI Images
+✅ Phase 4 — AI Videos
+✅ Phase 5 — AI Adverts & UGC
+✅ Phase 6 — Advanced Flows
+⬜ Phase 7 — Social Media
+⬜ Phase 8 — AI filmmaking
+⬜ Phase 9 — Cloning
+
+# Your Next Mission:
+Create an awesome flow, screenshot it and post it in the community with the title "Phase 6 Homework".
+Flows are super visual and perfect for sharing 🔥
+
+10. 📁 Resources
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/54fdc718?md=bb99129d08cd4c8ea28aea0e1a1834a1

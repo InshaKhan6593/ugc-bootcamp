@@ -1,0 +1,575 @@
+AI VIDEO BOOTCAMP — PHASE 4: AI VIDEOS
+Lesson notes, video links and files
+============================================================
+
+
+######## ⭐ Start Here ########
+
+01. 🎥 AI Video Basics
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=89771ab374dc43b58a9ce2b8666e427b
+Video: https://www.loom.com/share/6c80db17a1884116a6c257a220d29547
+Resources:
+  - Phase4_01_AI-Video-Basics_transcript29.pdf (Transcript)
+  - Phase4_01_AI-Video-Basics_ai_video_generation_settings_guide.pdf (Lesson Guide)
+
+Welcome to Phase 4. This is where your images and ideas start turning into moving scenes.
+This phase is here to help you understand how AI video works in a simple, practical way.
+You’ll learn how to turn images into videos, write better video prompts, control movement, guide camera motion, use references, create more realistic clips, and understand why some generations work better than others.
+Motion is what makes people feel something and these movements turn AI art into something that feels real.
+
+02. 💫 Which Video Models To Use
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=9932d788591d44dfbc8ddf9efad37b84
+
+When choosing an AI video model, don’t think, “Which one is best?”
+Think, “What am I trying to make?”
+Seedance 2.0 is by far the best all round model right now, but it is also the most expensive. If you have the budget and want the best results, it's quite far ahead of the rest.
+On Seedance you can upload up to 9 image, 3 videos & 3 Audio as references, at the same time.
+[Image 1: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/9be7b88645f342559f6de1d07149f14cbc2d1065bade4eb280fccc44b85f6ded.png]
+
+Kling 3.0 4k is great for B-roll and slower paced Cinematic shots, and if you need to control the direction of the movement more precisely, use Kling Motion Control.
+Google Gemini Omni is great for lip-sync and video editing. Use this as a back-up to Seedance when you want great lip-sync.
+Veo 3.1 is good for cheaper lip-sync and scenes, but is not on the same level as Seedance or Gemini Omni.
+Veo 3.1 has 2 settings, Quality or Fast. Quality costs more credits but gives a slightly better output.
+Heygen is the best at creating clones and doing 'Talking Head' Videos. Look at Phase 9 for info on cloning yourself.
+For quick tests, use cheaper or faster models. Once the idea works, regenerate the best version with a higher-quality model.
+
+## The simple rule is this:
+• Overall best for Avatars - Seedance 2.0
+• Overall best for B-roll/Cinematic slow shots - Kling 3.0
+• Overall great at most things - Google Gemini Omni
+• Overall best for Cloning & Talking head - Heygen
+
+
+######## ▶️ AI Video Guides ########
+
+03. 🎥 Kling 3.0
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=c2045f89585947678abd1768c4851ba0
+Resources:
+  - Phase4_03_Kling-30_transcript32.pdf (Transcript)
+  - Phase4_03_Kling-30_AVB_Kling_Camera_Movement_Toolkit_clean.pdf (Camera Movement Examples)
+  - Phase4_03_Kling-30_kling_3_video_features_guide.pdf (Lesson Guide)
+
+You can now use Kling on www.promptwise.com or the actual Kling website - https://kling.ai/ All settings are the same on both.
+PROMPTS BELOW ⬇️
+⭐ This model works best if you upload the start image to AI Chat and ask for detailed shot prompts ⭐
+[Image 1: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/91b4ef0d7f5045db83f2ccbe982e94bb049c9d29f4964f02afd6f466ec83c9d4-md.png]
+Scene 1
+Shot: Tight cinematic close-up on the driver’s face inside the helmet.
+Details:
+Sweat on skin, shallow breathing, eyes scanning the track
+Golden-hour sunlight flaring across the visor
+Slight handheld micro-movement for realism
+Background pit lane softly out of focus
+Camera: 85mm lens, shallow depth of field
+Mood: Calm before the storm, intense concentration
+Scene 2
+Shot: Medium close-up from the side as a crew member tightens the HANS device and taps the helmet.
+Details:
+Subtle nod from the driver
+Fabric textures, carbon fiber, small dust particles floating
+Pit sounds implied through motion (no text overlays)
+Camera: Slow push-in
+Mood: Professional, serious, locked-in
+Scene 3
+Shot: Low angle as the driver steps into the car and lowers himself into the seat.
+Details:
+Hands gripping the halo / cockpit edge
+Gloves brushing carbon fiber
+Sunlight streaking across the chassis
+Camera: 35mm lens, slow tilt up
+Mood: Commitment, point of no return
+Scene 4
+Shot: Extreme close-up on the driver’s gloved hand pressing the ignition button.
+Details:
+Subtle vibration through the cockpit
+Dashboard lights flicker on
+Helmet visor reflection shows pit lane movement
+Camera: Macro-style close-up
+Mood: Controlled power, adrenaline spike
+Scene 5
+Shot: Tracking shot from the side as the car slowly rolls out of the pit lane.
+Details:
+Crew stepping back
+Heat haze behind the car
+Wheels rotating slowly, brakes glowing faintly
+Camera: Smooth dolly / gimbal movement
+Mood: Anticipation, restrained speed
+Scene 6
+Shot: Rear three-quarter angle as the car accelerates hard onto the track.
+Details:
+Aggressive acceleration
+Motion blur on surroundings, sharp focus on car
+Sun low on the horizon for cinematic contrast
+Camera: Chase-style shot, slight shake
+Mood: Power, speed, race has begun
+
+[Image 2: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/d3ab341b7831444eb3d7062e2042cf1154e7a0c3e8e14be1a06bb527877079c7-md.png]
+Ultra-realistic cinematic racing sequence, hyper-detailed Formula-style race car at full speed on a professional circuit during golden hour.
+The shot begins inside the cockpit in first-person POV: gloved hands gripping the steering wheel, digital RPM lights climbing rapidly, subtle vibration through the carbon-fiber chassis, heat haze visible above the nose of the car, track barriers rushing past at extreme speed.
+Camera starts locked inside the cockpit, tight and immersive, with natural motion shake synced to acceleration.
+As the engine screams and speed builds, the camera performs a rapid cinematic crane movement, lifting up and backward through the open halo area in a single fluid motion. The camera rotates 180 degrees while rising, transitioning from POV to an exterior perspective, revealing the full car mid-corner.
+Motion blur increases on the track and surroundings while the car remains sharply in focus.
+The camera continues into a dynamic orbit, circling around the car at high speed, slightly tilted for intensity, showing spinning wheels, suspension compression, brake glow, and aerodynamic elements flexing under load.
+Another race car briefly appears alongside, blurred by speed, emphasizing competition and danger.
+
+[Image 3: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/fcb721ed48ee4a48a38f632e3b9d8dbbf848f1415df54a71920ce9d48061ca6e-md.png]
+Shot 1 2s: Shot type: Medium-wide, static tension
+Description:
+The masked warrior stands at the edge of a rain-soaked rooftop, city lights blazing below. His cape and head wrap ripple violently in the wind. Neon reflections shimmer across wet concrete.
+Behind him, shadowy silhouettes of enemies begin to emerge, stepping into frame from opposite ends of the rooftop.
+Mood: Calm before violence.
+Camera: Locked-off, slight push-in, rain streaks visible on lens.
+Shot 2 2s: 🎬 SCENE 2 — Encircled 
+Shot type: Lateral tracking
+Description:
+The camera slides sideways along the rooftop edge as multiple enemies fan out, boots splashing through puddles. Weapons glint briefly in neon light.
+The warrior remains still at center frame, breathing controlled, eyes forward.
+Camera: Smooth left-to-right track, shoulder height.
+Mood: Threat closing in.
+Shot 3 2s: Shot type: High crane / overhead
+Description:
+The camera rises rapidly upward into a wide crane shot, revealing the full rooftop geometry: the lone warrior at the center, enemies spaced around him in a loose circle, rain hammering down.
+Tokyo-style city sprawl stretches endlessly beneath, traffic like glowing veins.
+Camera: Fast vertical crane, slight rotation at peak.
+Mood: Epic scale, inevitability.
+Shot 4 3s: Shot type: Tight character moment
+Description:
+Cut to a close-up of the warrior’s masked face. Rain runs down the mask. His eyes flick left… then right.
+A subtle shift in stance — weight drops, shoulders set.
+Enemies tighten their grip on weapons.
+Camera: Slow push-in, shallow depth of field.
+Mood: Focus, resolve.
+Shot 5 3s: Shot type: Signature action close-up
+Description:
+In one clean, deliberate motion, the warrior draws his sword.
+Steel slides free with a sharp metallic glint, water spraying from the blade as it clears the sheath.
+The blade catches neon light, reflections rippling across its surface.
+Camera: Low-angle close-up, slight speed ramp on the draw.
+Mood: Point of no return.
+Shot 6 3s: Shot type: Dynamic wide → hold
+Description:
+The camera pulls back into a wide shot as enemies step forward simultaneously, rain intensifying, wind tearing at fabric.
+The warrior lowers into a ready stance, sword angled forward, cape snapping behind him.
+The moment freezes just before impact.
+Camera: Fast pull-back, then hard stop.
+Mood: Imminent violence, cinematic cliffhanger.
+
+[Image 4: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/b4114ce736ba49eb8a569748157229554ab4394983674af8815eb4fa6cccd754-md.png]
+The man is incredibly frustrated and animated. He shouts "HOW CAN I NOT BE REAL? HOW CAN I BE JUST A PROMPT. PLEASE CAN SOMEONE HELP ME." Sound effects: Explosions in the distance
+
+[Image 5: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/a0a9e8daa8874523a829a3918bac32477fcbaeae097d495f94f39307bf47319d-md.png]
+Handheld shaking camera, the soldier closest to the camera screams "HES HERE" as the knight behind him slashes his sword and leaves the man in the foreground frozen in ice
+
+[Image 6: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/b69d4d1c6cc34a229e239e087404afa74ffb616134dc44eb816bc2cf38c1dfee-md.png]
+Shot 1 3s: Wide, low-angle shot at dusk on a rain-damp rooftop overlooking a glowing city. The woman leans against a stone railing, breath steady but eyes sharp, city lights pulsing behind her. Wind tugs loose strands of hair; her jacket creases and shifts with the gusts. The camera holds briefly, then performs a subtle handheld push-in, micro-shake present, exposure breathing as neon bokeh blooms in the distance. The moment feels suspended—quiet before impact.
+Shot 2 3s: Tight profile close-up as she turns her head toward the horizon. Jaw clenches, nostrils flare slightly. A single streetlight flickers behind her, creating a rhythmic pulse across her cheekbone. Shallow depth of field isolates her expression; focus snaps from eye to eye with natural autofocus hesitation. Ambient city hum leaks in visually through vibrating highlights.
+Shot 3 3s: Medium shot from behind as she steps forward, posture low and intentional. The camera tracks laterally at waist height, parallax sliding the railing past frame. Fabric textures catch warm highlights; scuffed boots meet stone with grounded weight. Motion blur kisses the edges during the step, reinforcing urgency without chaos.
+Shot 4 3s: Extreme close-up on her hands as they settle, fingers flexing once—muscle memory implied, not shown. Skin texture, faint grime, and tension in tendons are visible. The background melts into amber bokeh. The camera floats inches closer, handheld drift only, as a breath passes and the light shifts half a stop.
+Shot 5 3s: Over-the-shoulder shot looking past her toward a city street far below, lights streaking softly. She straightens, shoulders set. The camera tilts up a few degrees as if rising with her resolve, then holds. The final frame locks on her silhouette against the glow—calm, focused, inevitable.
+
+[Image 7: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/24593e8d682e46b09cebba826642da5f3e9301e096f34037908a0013535b1de1-md.png]
+Shot 1 3s: A hyper-realistic medium-wide shot inside a slightly worn American roadside diner during golden hour. The man sits alone in a booth, holding a ceramic coffee mug near his chest. Steam gently rises from the coffee, curling naturally and unevenly. His posture is relaxed but slightly slouched, eyes drifting toward the window as warm sunlight streaks across the table and vinyl seats.
+The camera is static but imperfect, as if handheld and resting on the opposite booth seat, with subtle micro-movement. Dust particles float in the sunbeams. Background stools and empty tables sit quietly out of focus. The man blinks naturally and exhales softly through his nose, unaware of what’s coming.
+Shot 2 3s: A realistic over-the-shoulder shot from behind the man as a waitress enters the frame from the right aisle. She wears a classic diner uniform — slightly creased apron, name badge catching a glint of light. She carries a small birthday cake on a plate, topped with lit candles that flicker subtly as she walks.
+Her footsteps are gentle but audible in motion, causing a faint sway in the cake. The man senses movement and begins to turn his head slightly, eyebrows lifting in curiosity. Camera focus shifts naturally from the man’s shoulder to the approaching cake, with brief autofocus hesitation like a real phone camera.
+Shot 3 3s: Close-up shot of the table as the waitress carefully places the birthday cake in front of the man. Her hands enter frame first — realistic skin texture, short nails, faint redness from work. The plate makes soft contact with the tabletop, producing a subtle vibration that causes the candle flames to flutter.
+The man’s hands instinctively lower his coffee mug to the table. His fingers pause mid-motion, showing hesitation and surprise. The camera remains tight on the interaction — cake, hands, mug — with shallow depth of field and natural motion blur from the waitress withdrawing her hands.
+Shot 4 3s: Medium two-shot of the man and waitress standing beside the booth. The waitress leans in slightly, smiling with an authentic, unscripted warmth. The man looks up at her, confused at first, then slowly amused. His mouth opens just a little as if saying “Oh—” before he smiles.
+Their eye contact is brief but genuine. The waitress gestures casually toward the cake with one hand. The camera has a slight handheld sway, capturing natural body language, subtle head nods, and imperfect timing. Lighting remains soft and warm, no dramatic emphasis.
+Shot 5 3s: Close-up of the man alone again, now facing the cake. The candles glow warmly, reflecting in his eyes. He smiles to himself — small, restrained, emotional but understated. He exhales gently, causing the candle flames to tremble but not go out.
+The background diner noise feels distant and blurred. The camera slowly drifts forward by a few centimeters, as if the person filming leans in without thinking. Skin texture, beard detail, and eye moisture are clearly visible. The moment feels intimate, real, and unperformed.
+
+[Image 8: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/6efb0cc73eb34b21ac39cd44a1ee3b1a596379394c644451a197de93619015dd-md.png]
+Camera executes a rapid side sweep from left to right, immediately followed by a short, aggressive punch-in toward the face lasting roughly half a second to under a second. It then snaps back to its original distance before completing a return sweep in the opposite direction, right to left.All movement remains strictly linear with no orbital paths. Motion is precise and machine-driven, featuring sharp acceleration and deceleration with zero visible shake. The subject’s face stays perfectly steady throughout, hair/braids undisturbed, and the outfit remains clean with no visual artefacts.
+
+[Image 9: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/43f7fb5ecfe34dd1895103627b4fad23afa9027556684571b4741bfe7a8bb011-md.png]
+Shot 1: The woman is vlogging, she says "come and spend a day in the life with me"
+Shot 2: Cut to a close up of her in another room, she is eating some food
+Shot 3: Cut to the woman in the bathroom brushing her teeth
+Shot 4: Cut to the woman in the bathroom brushing her teeth at another angle
+
+[Image 10: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/7a43b06d1be94b818234767e1f1683eaeefcf60b837445dd9576734361e45a35-md.png]
+Shot 1 4s: A hyper-realistic vertical video of a young woman standing in an outdoor stone shower surrounded by lush tropical plants and soft morning sunlight. She is wearing a slightly wrinkled white cotton robe with natural fabric texture and subtle translucency at the edges. Her pink hair is freshly styled, with soft flyaways and uneven strands visible near the hairline.
+She holds a shampoo bottle at chest height with both hands, fingers slightly bent and imperfectly aligned, showing realistic skin texture, faint veins, and natural nail beds. The label on the bottle is fully readable, correctly aligned, and slightly reflective under sunlight.
+The camera is handheld at eye level with very subtle micro-shake, realistic autofocus breathing, and slight exposure adjustment as the light shifts. Her facial expression is warm and conversational, lips moving naturally as if speaking mid-sentence, with realistic blinking, micro head tilts, and asymmetrical smiling.
+Lighting is natural daylight only — no studio light — with soft shadows cast from surrounding plants. Background depth feels real with gentle motion in leaves from a light breeze. Skin texture shows pores, light peach fuzz, and natural highlight on cheeks and nose.
+Ultra-realistic smartphone footage, no beauty filters, no artificial smoothing, no cinematic grading.
+Shot 2 3s: Extreme close-up vertical shot inside the outdoor shower, focused on the woman’s hands and hair as she massages shampoo into her wet scalp. Water droplets visibly run down strands of hair, clinging unevenly and forming small rivulets. Foam builds naturally — not excessive — with realistic translucency and varying bubble sizes.
+Her fingers press into the scalp with uneven pressure, showing natural hand movement, slight tremble, and realistic skin creases at the knuckles. Fingertips appear slightly reddened from water exposure. Hair strands clump together realistically, darker where fully soaked, lighter where water thins.
+The camera feels like a real handheld phone brought closer, with shallow depth of field causing parts of the hands and hair to drift softly in and out of focus. Water splashes occasionally hit the lens, causing brief soft blur before clearing.
+Lighting is diffuse daylight filtered through leaves above, creating soft dappled highlights on hair and foam. No slow motion, no cinematic lighting, no artificial glow — pure real-world shower footage.
+Shot 3 3s: Close-up vertical shot of the woman gently towel-drying her hair just outside the shower area. A textured off-white towel presses against damp hair, visibly absorbing water and darkening in patches. Hair appears slightly tangled and uneven, with individual strands sticking out naturally.
+Her hands move casually, not perfectly synchronized, creating a realistic everyday motion. Small droplets fall from the ends of her hair onto her robe, leaving visible wet spots that slowly spread into the fabric.
+The camera remains handheld at chest level, with natural movement and slight tilt as if filmed casually. Focus shifts subtly between the towel, hands, and hair.
+Lighting remains natural daylight with soft contrast. Skin shows natural redness from warm water, light shine on cheeks, and realistic under-eye texture. No glam lighting, no artificial smoothing.
+Shot 4 3s: Medium close-up vertical shot of the woman looking directly into the camera and smiling naturally after finishing her routine. Her hair is damp but settling naturally, with a few loose strands framing her face. The robe sits imperfectly, slightly creased and relaxed, enhancing realism.
+Her smile is asymmetrical and genuine, with subtle eye crinkles, natural blinking, and a small head tilt. She exhales lightly through her nose, visible in the gentle movement of her shoulders.
+Background remains the outdoor stone shower and greenery, softly out of focus, with sunlight catching the edges of leaves behind her. The camera has minimal handheld movement, slight exposure correction as her face fills the frame.
+Overall look is indistinguishable from real influencer UGC shot on a modern smartphone — no cinematic effects, no filters, no AI artefacts, no perfect symmetry.
+
+[Image 11: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/0a74786cfc194768be4171bdb118d4eaf02e21c0a2644a80b443a18c1f77f1b3-md.png]
+
+Shot 1: The woman is cooking
+Shot 2: Cut to a close up of her food
+Shot 3: Cut to the woman opening her fridge
+Shot 4: Cut to the inside of the fridge looking out at the woman
+Shot 5: Cut to the woman smiling and saying "thanks for watching"
+
+04. 🔥 Seedance 2.0
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=29b6546a48a74d4fad7657a2291d4309
+Resources:
+  - Phase4_04_Seedance-20_seedance_2_video_generation_power_(1).pdf (Lesson Guide)
+  - Phase4_04_Seedance-20_transcript33.pdf (Transcript)
+
+You can now access all the latest Seedance models at www.promptwise.com 
+1080p and 4k now available!
+If you are looking for Seedance 2.5 - https://www.skool.com/aivideobootcamp/classroom/950d18f8?md=bcd0c5434fd74009a43e771e48c9d0f5
+Using Seedance for UGC ads - https://www.skool.com/aivideobootcamp/classroom/950d18f8?md=7d07de49a7cc4d299f7dbe61e679220b
+
+PROMPT EXAMPLES FOR TIME SEQUENCES - 
+
+## 🎬 AI Video Prompt – “Neon Duel” (15s Time Sequence)
+Style: ultra-realistic cyberpunk, Tron-inspired, cinematic combat
+Environment: dark digital temple, reflective black floor, neon glow (blue vs red)
+Characters: two Japanese cyber warriors with glowing armor lines + energy katanas
+
+### ⏱️ 0:00 – 0:03 (Standoff)
+Shot: Wide cinematic, slow push-in
+Both warriors stand facing each other in a dark neon arena.
+Blue and red light reflects across the glossy floor.
+Their armor pulses faintly, energy katanas humming in their hands.
+Particles float in the air, subtle fog drifting.
+SFX: low ambient hum, energy blade buzz, faint digital atmosphere
+
+### ⏱️ 0:03 – 0:06 (Engage)
+Shot: Fast tracking shot circling them
+They explode into motion — rapid strikes and parries.
+Blades collide, sending bursts of glowing sparks.
+Camera orbits them as reflections streak across the floor.
+SFX: sharp metallic energy clashes, fast movement swishes
+
+### ⏱️ 0:06 – 0:09 (Momentum Shift)
+Shot: Medium → close-up sequence
+The red warrior gains the upper hand, pushing forward aggressively.
+Blue warrior steps back, narrowly blocking incoming strikes.
+Camera cuts tighter — intensity builds.
+SFX: heavier blade impacts, rising tension hum
+
+### ⏱️ 0:09 – 0:12 (SLOW MOTION NEAR-DEATH MOMENT)
+Shot: Extreme slow-motion, cinematic close-up
+The red warrior swings a powerful horizontal strike toward the blue warrior’s neck—
+Time slows dramatically.
+The blue warrior leans backward just in time…
+The glowing blade passes inches from their face.
+Neon light reflects in their eyes.
+Tiny particles and sparks float in the air.
+Hair, fabric, and armor subtly react to the motion.
+The blade leaves a glowing trail as it slices past.
+SFX: deep slowed-down energy hum, distorted blade whoosh
+
+### ⏱️ 0:12 – 0:15 (Counterattack & Reset)
+Shot: Snap back to full speed → dynamic tracking
+Time snaps back.
+The blue warrior pivots instantly and counters with a fast upward slash.
+The red warrior barely blocks — both slide apart across the reflective floor.
+Final shot: Wide symmetrical frame
+Both warriors reset, glowing blades raised, tension still high.
+SFX: sharp clash, energy crackle, ambient hum returns
+
+## 🎬 AI Video Prompt – “Neon Duel” (15s Time Sequence)
+Style: ultra-realistic cyberpunk, Tron-inspired, cinematic combat
+Environment: dark digital temple, reflective black floor, neon glow (blue vs red)
+Characters: two Japanese cyber warriors with glowing armor lines + energy katanas
+
+### ⏱️ 0:00 – 0:03 (Standoff)
+Shot: Wide cinematic, slow push-in
+Both warriors stand facing each other in a dark neon arena.
+Blue and red light reflects across the glossy floor.
+Their armor pulses faintly, energy katanas humming in their hands.
+Particles float in the air, subtle fog drifting.
+SFX: low ambient hum, energy blade buzz, faint digital atmosphere
+
+### ⏱️ 0:03 – 0:06 (Engage)
+Shot: Fast tracking shot circling them
+They explode into motion — rapid strikes and parries.
+Blades collide, sending bursts of glowing sparks.
+Camera orbits them as reflections streak across the floor.
+SFX: sharp metallic energy clashes, fast movement swishes
+
+### ⏱️ 0:06 – 0:09 (Momentum Shift)
+Shot: Medium → close-up sequence
+The red warrior gains the upper hand, pushing forward aggressively.
+Blue warrior steps back, narrowly blocking incoming strikes.
+Camera cuts tighter — intensity builds.
+SFX: heavier blade impacts, rising tension hum
+
+### ⏱️ 0:09 – 0:12 (SLOW MOTION NEAR-DEATH MOMENT)
+Shot: Extreme slow-motion, cinematic close-up
+The red warrior swings a powerful horizontal strike toward the blue warrior’s neck—
+Time slows dramatically.
+The blue warrior leans backward just in time…
+The glowing blade passes inches from their face.
+Neon light reflects in their eyes.
+Tiny particles and sparks float in the air.
+Hair, fabric, and armor subtly react to the motion.
+The blade leaves a glowing trail as it slices past.
+SFX: deep slowed-down energy hum, distorted blade whoosh
+
+### ⏱️ 0:12 – 0:15 (Counterattack & Reset)
+Shot: Snap back to full speed → dynamic tracking
+Time snaps back.
+The blue warrior pivots instantly and counters with a fast upward slash.
+The red warrior barely blocks — both slide apart across the reflective floor.
+Final shot: Wide symmetrical frame
+Both warriors reset, glowing blades raised, tension still high.
+SFX: sharp clash, energy crackle, ambient hum returns
+
+## 🎬 AI Video Prompt – “Awakening Power” (15 Seconds, 3–5s Beats)
+Style: hyper-realistic, cinematic, handheld + slow motion mix, natural lighting turning dramatic
+Character consistency: same woman as image (freckles, natural skin, wavy brown hair, beige top)
+Environment: park, golden hour shifting into chaotic atmosphere
+Tone: grounded → explosive → heroic
+
+### ⏱️ 0:00 – 0:03 (Calm Before Chaos)
+Shot: Medium close-up, slow push-in
+The woman stands in the park, soft golden sunlight hitting her face, trees gently swaying. Her hair moves slightly in the breeze.
+In the distance, faint rumbling begins. Birds suddenly scatter overhead.
+Her expression shifts from calm to alert as she turns her head slightly.
+SFX: light wind, distant low rumble, leaves rustling
+
+### ⏱️ 0:03 – 0:06 (Threat Revealed)
+Shot: Wide cinematic reveal, slight handheld shake
+A massive, terrifying creature bursts through the trees in the background — towering, muscular, unnatural, destroying branches as it moves forward.
+People in the park begin running, screaming, chaos erupting.
+Dust and debris fill the air, sunlight now partially blocked.
+SFX: heavy footsteps, cracking wood, distant screams, deep monster growl
+
+### ⏱️ 0:06 – 0:09 (Power Awakens)
+Shot: Close-up → slight slow motion
+The woman closes her eyes briefly, breathing in. Subtle glowing light begins forming under her skin, starting from her chest and spreading outward.
+Her hair lifts slightly as energy builds. The air around her distorts with heat-like shimmer.
+Her eyes open — now glowing faintly.
+SFX: rising energy hum, low-frequency pulse, wind intensifying
+
+### ⏱️ 0:09 – 0:12 (Transformation & Takeoff)
+Shot: Dynamic tracking shot, slight slow motion
+A burst of energy explodes outward from her body, pushing leaves and dust away in a shockwave.
+Her stance becomes grounded and powerful. Light radiates around her, subtle aura forming.
+She launches forward at high speed toward the monster, camera follows with motion blur.
+SFX: energy burst, shockwave blast, wind tearing past camera
+
+### ⏱️ 0:12 – 0:15 (Hero Moment / Impact)
+Shot: Slow-motion impact + cinematic wide
+She slams into the monster mid-attack just as it’s about to reach fleeing civilians.
+A massive energy impact erupts on contact, sending the creature recoiling backward.
+People in the foreground shield themselves as light floods the scene.
+Final frame: she stands between the monster and the people, glowing, calm, powerful.
+SFX: heavy impact boom, energy crackle, debris falling, fading wind
+
+05. 🎬 AI Video Editing (Gemini Vs Seedance)
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=603b0f11c98a48b59042766207b7dbd7
+Video: https://www.loom.com/share/e1848d9688874541806a3dccd46998c1
+Resources:
+  - Phase4_05_AI-Video-Editing-Gemini-Vs-Seedance_transcript26_(1).pdf (Transcript)
+  - Phase4_05_AI-Video-Editing-Gemini-Vs-Seedance_google_vs_seedance_2_editing_test_guide.pdf (Lesson Guide)
+
+Googles guide - https://deepmind.google/models/gemini-omni/prompt-guide/
+To remove watermarks from Veo & Gemini videos - https://removewatermark.dev/
+
+06. 📷 Camera Movement Guide
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=f981619ca2e04c6eb50a721d949cb80a
+Video: https://www.loom.com/share/c7cba2fc5fa34a69b677e3c475d9c3bc
+Resources:
+  - Phase4_06_Camera-Movement-Guide_transcript37.pdf (Transcript)
+  - Phase4_06_Camera-Movement-Guide_camera_moves.pdf (Camera Movement Prompt Library)
+  - Phase4_06_Camera-Movement-Guide_Lesson_Guide_+_Prompts.pdf (Lesson Guide + Prompts)
+
+07. 🚀 AI Lipsync Test
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=e3ea788e3e6c48a4a0f713c0b47945f7
+Resources:
+  - Phase4_07_AI-Lipsync-Test_transcript27_(1).pdf (Transcript)
+
+Google Website to use Gemini Omni Flash - https://labs.google/fx/tools/flow
+All models are also available on - www.promptwise.com 
+[Image 1: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/64c5244411194f25a8c680797e56f0d200f37c95209f47c69e5a77550df836dd.png]
+
+You can upload audio to Seedance 2.0 or Seedance 2.5 (Seedance 2.5 is slightly better) and have the character speak the words for you. This is perfect if you are using languages other than English. 
+Create the dialogue in Elevenlabs > Download > Import as Seedance as a reference.
+[Image 2: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/d529e1067eea4478bf5ac9a60304fc9f3e283011e6ee4398af004d6bb134df4b.png]
+
+08. ❌ Removing the 'AI' Look
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=2f0aa082931648c5ae7620bcece4c882
+Video: https://www.loom.com/share/a6b1dde3834a429abb100003c63b4a9d
+Resources:
+  - Phase4_08_Removing-the-AI-Look_transcript15.pdf (Transcript)
+  - Phase4_08_Removing-the-AI-Look_contrast_trick_guide.pdf (Lesson Guide)
+
+# Realism Lock in Prompt - 
+{ADD WHAT YOU WANT HERE} - Authentic everyday photorealism, candid and unposed, natural ambient light appropriate to the setting, realistic skin texture and material texture, muted true-to-life colours, low contrast, subtle softness, slight phone-camera or real-camera imperfection, believable exposure, lived-in details, natural body language, ordinary real-life styling, imperfect composition, no glamour retouching, no beauty filter, no cinematic colour grading, no hyper-polished AI look.
+
+09. 🙋‍♀️ Kling Motion Control
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=58604d6570cf47f58c5a2a495d4c6c3e
+Video: https://www.loom.com/share/d64a6b6f1b9e412a9cd397c73a82f741
+Resources:
+  - Phase4_09_Kling-Motion-Control_transcript35.pdf (Transcript)
+  - Phase4_09_Kling-Motion-Control_kling_motion_control_social_monetization_guide.pdf (Lesson Guide)
+
+How to MONETISE and use Kling Motion Control.
+You can use Kling motion control on the actual Kling website - https://kling.ai/
+or now on Promptwise too
+It has never been this easy to Monetise AI!
+THE APP MENTIONED IN THE VIDEO FOR DOWNLOADING - https://snaptik.app/en2
+
+10. 🎙️ Consistent Character Voices
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=b0f04241197947dd818a63fbd46392ee
+
+Veo:
+The trick with keeping voices consistent in Veo 3.1 is basically treating the voice like a locked character asset, not something you describe fresh every time.
+Where most people mess up is they'll tweak the voice description between prompts. Even tiny changes, like swapping a word or two, can make the model give you a completely different tone or pitch. 
+It's annoying but that's how it works. What you want to do instead is define the voice once with really specific traits. 
+This also works in other VIDEO MODELS!
+
+## Examples: Accent, tone, pacing, personality. 
+
+Something like: "light Australian accent, relaxed and confident, medium pace, bit of vocal rasp." 
+
+Then copy paste that exact description into every single prompt. Basically think of it as a voice blueprint. Define it once and just reuse it across every scene (for that same character)
+
+### Also, keep your dialogue lines short and natural. This helps the avatar stay in rhythm. If you upload too much dialogue in each prompt, the avatar only has 8 seconds to say all of those words, so they are going to speak super fast, which doesn't sound natural at all.
+Here's a good example:
+[Image 1: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/804722ac0e3b455a9626ad144a326b65315080ae798143e58ede54e4d7d44862-md.png]
+
+## Why default AI voices sound bad
+Standard AI delivery treats every single word the same, there's no emphasis on the words that matter, no natural pauses where a real person would breathe, no melody in how sentences rise and fall, your brain picks up on this immediately. 
+In the prompt above I add "..." and punctuation quite often. This let's the AI know that it needs to pause naturally between speech. The more punctuation the better, it gives the prompt rhythm.
+If you don't add any sort of punctuation it will just sound like they are reading from a script, which is bad.
+Then we finish the prompt with the "light Australian accent, relaxed and confident, medium pace, bit of vocal rasp." which locks in the tone and sound of the voice.
+
+Why are accents important?
+When you add an accent, you're changing the entire delivery system. These are tiny micro details that your ear processes subconsciously. Even a subtle accent is enough to transform a flat robotic voice into something that actually sounds like a real person talking. 
+Think about it, there is probably only around 2-3 different female voices in Veo 3.1 for an australian accent (or any accent), so it's quite limited. 
+This is a good thing, because it means that if you choose your accent, then the software doesn't have much choice but to continually give you the same sort of voice.
+REMEMBER - YOU NEED TO CHOOSE AN ACCENT THAT MATCHES YOUR CHARACTER.
+
+## Some examples you can use (add the accent you want):
+
+### Conversational
+"speaks with a subtle [accent], natural mid-tempo pacing, friendly and relaxed tone. briefly pauses before key words as if thinking. sentences taper off slightly rather than ending sharply."
+
+### Confident
+"light [accent], steady deliberate delivery, calm authority in the voice. controlled pacing with clear pauses between statements. never rushed, every phrase lands with intention."
+
+### Energetic
+"subtle [accent], fast lively rhythm, enthusiasm rises when emphasizing a point. delivery feels animated and expressive, like someone excitedly sharing a story."
+
+### Casual
+"light [accent], loose conversational pace. sounds like talking with a close friend. occasionally breaks sentences, uses natural filler sounds like 'um' or 'like'. tone is relaxed and informal."
+
+### Storytelling
+"light [accent], expressive storytelling cadence. pacing varies naturally — slower during description, faster during exciting moments. voice carries curiosity and subtle emotional shifts."
+
+### Calm / Thoughtful
+"subtle [accent], slower reflective pace. soft tone with gentle pauses between ideas. sounds like someone carefully choosing their words while explaining something meaningful."
+
+### Persuasive
+"light [accent], confident persuasive rhythm. slightly emphasises important words, small pauses before key statements. tone feels convincing and composed."
+
+### Professional
+"subtle [accent], clean controlled delivery, medium pace. clear pronunciation with slight pauses between sentences. tone feels polished and articulate."
+
+### Dramatic
+"light [accent], deliberate cinematic pacing. longer pauses for tension, emphasis on emotional words. voice carries weight and seriousness."
+
+### Curious / Analytical
+"subtle [accent], thoughtful pace with slight hesitation before ideas. tone sounds inquisitive, as if exploring the topic while speaking."
+
+### Friendly / Warm
+"light [accent], gentle rhythm, soft welcoming tone. speech flows smoothly with small pauses that feel natural and reassuring."
+
+### Sarcastic / Playful
+"subtle [accent], relaxed tempo with slight vocal smirks in the delivery. emphasis shifts unpredictably to highlight humor or irony."
+
+### Authority / Leader
+"light [accent], controlled confident cadence. speaks slowly enough to command attention. strong emphasis on decisive words."
+
+### Reflective / Emotional
+"subtle [accent], slower pacing with pauses that feel introspective. voice softens during emotional phrases, almost like thinking out loud."
+
+### Conversational Story Mode
+"light [accent], casual narrative rhythm. sounds like someone explaining an experience to a friend. sentences occasionally restart mid thought."
+
+### Fast Social Media Style
+"subtle [accent], quick modern pacing, energetic delivery. short bursts of speech with strong emphasis on key words."
+
+#### If you are still struggling to get consistent voices, you can upload the entire video into Elevenlabs 'VOICE CHANGER' and select a voice you want. https://elevenlabs.io/app/speech-synthesis/speech-to-speech
+Go to the Voice Changer Tab.
+[Image 2: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/831c1cf316a3429f9256a91d03d99b129b4259dd51dd4a669f6a0975ac7dba59]
+Select the voice you want.
+[Image 3: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/e2bb9f12b484444f950cffc82d99b9a008c02e41049c45c6b4c9657796898d5a]
+Upload the videos you created and hit Generate.
+[Image 4: https://assets.skool.com/f/1a18982c15714b0c97031894dbdb3900/9983ee9242f6490085d306404bc73ba444980ef8fab94ee296d7f1efbf5dab0c]
+The software will change the voice to match the one you chose, keeping it consistent throughout.
+
+
+######## 🔊 Editing & Sound Effects ########
+
+11. ✂️ Mastering Capcut
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=f122fc97587b46caa2be0cef2b4dc5a0
+Video: https://www.loom.com/share/d6361442c2ac4458bcd04ba95f8608cc
+Resources:
+  - Phase4_11_Mastering-Capcut_transcript17.pdf (Transcript)
+
+For video editing - https://www.capcut.com/
+
+12. 💥 Sound Effects
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=27850deeb97b451883e40c66ebaa70cf
+Video: https://www.loom.com/share/88174892d1cd4bb6ba19a5cc4ea0d991
+Resources:
+  - Phase4_12_Sound-Effects_transcript25.pdf (Transcript)
+  - Phase4_12_Sound-Effects_elevenlabs_sound_effects_setup_guide.pdf (Lesson Guide)
+
+
+######## ✅ Homework & Resources ########
+
+13. 🎯 Phase 4 Summary & Homework
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=29a034b3d08c4f148932ea480af19728
+
+Incredible job! You've brought static images to life with smooth, cinematic animation. Your visuals now move with purpose and tell micro-stories.
+YOUR PROGRESS: 
+✅ Phase 1 — Initiate
+✅ Phase 2 — AI Foundations
+✅ Phase 3 — AI Images
+✅ Phase 4 — AI Videos
+⬜ Phase 5 — AI Adverts & UGC
+⬜ Phase 6 — Advanced Flows
+⬜ Phase 7 — Social Media
+⬜ Phase 8 — AI filmmaking
+⬜ Phase 9 — Cloning
+
+# Your Next Mission:
+Post one or more video clips into the community with the title "Phase 4 Homework".
+It doesn't matter how good or bad they are — show us what you can create! Your first animations are all about learning what works and building momentum.
+
+14. 📁 Resources
+--------------------------------------------------
+Lesson page: https://www.skool.com/aivideobootcamp/classroom/049622b6?md=f9090148e53d487888cca75193f7faf7
+Resources:
+  - Phase4_14_Resources_AVB_Kling_Camera_Movement_Toolkit_clean.pdf (More Camera Movement Examples)
+  - Phase4_14_Resources_AVB_Modern_Cinematic_Glossary_clean.pdf (Cinematic Glossary)
+  - Phase4_14_Resources_Lesson_Guide_+_Prompts.pdf (Camera Movement Guide)
+  - Phase4_14_Resources_camera_moves.pdf (Camera Movement Prompts)
+
+To remove watermarks from Veo & Gemini videos - https://removewatermark.dev/
